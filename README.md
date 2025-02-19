@@ -24,3 +24,9 @@ These songs are included here with the explicit permission and license granted b
 Any unauthorized use, including downloading or using these songs without being part of the DedSec project, may result in legal action, including but not limited to court proceedings.  
 
 By accessing or using these songs, you agree to comply with the terms of this license.  
+
+# Other Information  
+
+<a href="https://github.com/sponsors/dedsec1121fk" style="display: inline-block; padding: 10px 15px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px;">Sponsor Me on GitHub</a>  
+
+<a href="https://www.instagram.com/dedsec1121fk_official" style="display: inline-block; padding: 10px 15px; background-color: #E4405F; color: white; text-decoration: none; border-radius: 5px;">My Instagram</a>  
